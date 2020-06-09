@@ -1,0 +1,7 @@
+C:\Users\Юлия\source\repos\2-User\2-User\bin\Debug\2-User.exe.config
+C:\Users\Юлия\source\repos\2-User\2-User\bin\Debug\2-User.exe
+C:\Users\Юлия\source\repos\2-User\2-User\bin\Debug\2-User.pdb
+C:\Users\Юлия\source\repos\2-User\2-User\obj\Debug\2-User.csprojAssemblyReference.cache
+C:\Users\Юлия\source\repos\2-User\2-User\obj\Debug\2-User.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\2-User\2-User\obj\Debug\2-User.exe
+C:\Users\Юлия\source\repos\2-User\2-User\obj\Debug\2-User.pdb

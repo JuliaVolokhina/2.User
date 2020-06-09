@@ -1,0 +1,6 @@
+5
+Ivanov Alexandr Sergeevich 06.12.1999 21
+Korneev Ilya Petrovich 23.08.1998 22 programmer 3
+Markova Elena Anatolievna 21.06.1995 24 manager 7
+Markelova Anna Alekseevnaa 21.08.2000 20
+Sidorov Nikolai Dmitrievich 12.03.1995 25
